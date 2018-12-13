@@ -1,0 +1,11 @@
+{
+  "name": "ev3-renderer",
+  "version": "1.0.0",
+  "description": "A node.js based program to render EV3 projects to HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KnifesmithCode",
+  "license": "ISC"
+}
