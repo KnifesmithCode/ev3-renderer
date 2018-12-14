@@ -11,5 +11,10 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.15",
+    "@types/xml2js": "^0.4.3",
+    "xml2js": "^0.4.19"
   }
 }
